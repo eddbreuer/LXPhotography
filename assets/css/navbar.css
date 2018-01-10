@@ -1,0 +1,50 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+.admin-gallery {
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding: 15px;
+    height: 250px;
+    color: gray;
+    text-overflow: ellipsis;
+
+}
+
+.admin-gl-img  {
+    display: block;
+    width: 200px;
+    height: auto;
+    margin-right:20px;
+}
+.admin-gl-img img {
+    max-height: 200px;
+}
+
+.admin-photo img {
+    width: 500px;
+}
+
+a{
+text-decoration:none;
+}
+a:hover
+{
+   text-decoration: none;
+}
+/*==================*/
+.box {
+    background: black;
+    float:left;
+    margin:15px;
+    width:180px;
+    height:180px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
